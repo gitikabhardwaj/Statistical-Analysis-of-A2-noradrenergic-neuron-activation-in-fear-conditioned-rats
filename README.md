@@ -54,7 +54,7 @@ These graphs illustrate the activation of neurons in male and female rats, showi
 ### Regression Analysis
 Here we present the regression analysis graphs showing the relationship of neuron activation with caudal, rostral, and AP areas.
 ![Regression Analysis Caudal](images/regression_caudal.png)
-![Regression Analysis Rostral](images/regression_rostral.png)
+![Regression Analysis Rostral](images/regression_rostal.png)
 ![Regression Analysis AP](images/regression_ap.png)
 
 ## Regression Analysis Insights
