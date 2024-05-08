@@ -41,10 +41,6 @@ Our analysis demonstrated robust statistical power (0.899) to detect significant
 The following graph shows the percentage of neuron activation in the dark box re-exposure scenario, highlighting differences between male and female subjects.
 ![Dark Box Re-Exposure](images/dark_box_re_exposure.png)
 
-### HomeCage Re-Exposure
-This graph displays the neuron activation percentages for subjects in the home cage re-exposure scenario.
-![HomeCage Re-Exposure](images/homecage_re_exposure.png)
-
 ### Descriptive Statistics by Sex
 These graphs illustrate the activation of neurons in male and female rats, showing significant differences in response to environmental conditions.
 ![Descriptive Statistics Males](images/descriptive_stats_males.png)
