@@ -19,7 +19,7 @@ This project uses R with packages like `ggplot2`, `dplyr`, and `tidyr`. Install 
 install.packages(c("ggplot2", "dplyr", "tidyr"))
 ```
 
-## Usage
+## Usage 
 To run the analysis:
 1. Ensure that R and all required packages are installed.
 2. Execute the script via command line:
@@ -34,6 +34,28 @@ Our findings show a statistically significant higher activation of DbH neurons i
 
 ### Power Analysis
 Our analysis demonstrated robust statistical power (0.899) to detect significant effects, supporting the reliability of our results. This high level of power ensures that the probability of a Type II error (failing to detect a true effect when one exists) is minimized.
+
+## Descriptive Statistics and Roles in Neuron Activation
+
+### Descriptive Statistics: Re-Exposure
+The following graph shows the percentage of neuron activation in the dark box re-exposure scenario, highlighting differences between male and female subjects.
+![Dark Box Re-Exposure](images/dark_box_re_exposure.png)
+
+### HomeCage Re-Exposure
+This graph displays the neuron activation percentages for subjects in the home cage re-exposure scenario.
+![HomeCage Re-Exposure](images/homecage_re_exposure.png)
+
+### Descriptive Statistics by Sex
+These graphs illustrate the activation of neurons in male and female rats, showing significant differences in response to environmental conditions.
+![Descriptive Statistics Males](images/descriptive_stats_males.png)
+![Descriptive Statistics Females](images/descriptive_stats_females.png)
+
+
+### Regression Analysis
+Here we present the regression analysis graphs showing the relationship of neuron activation with caudal, rostral, and AP areas.
+![Regression Analysis Caudal](images/regression_caudal.png)
+![Regression Analysis Rostral](images/regression_rostral.png)
+![Regression Analysis AP](images/regression_ap.png)
 
 ## Regression Analysis Insights
 
