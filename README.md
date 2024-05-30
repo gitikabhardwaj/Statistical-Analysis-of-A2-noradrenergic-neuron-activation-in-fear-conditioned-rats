@@ -1,7 +1,7 @@
 ```markdown
-# Project Title: Activation Patterns of A2 Noradrenergic Neurons in Fear-Conditioned Rats
+# Activation Patterns of A2 Noradrenergic Neurons in Fear-Conditioned Rats
 
-## Overview
+## Project Overview
 This repository contains the R code and datasets for analyzing activation of A2 noradrenergic neurons in the nucleus of the solitary tract (NTS) of rats subjected to fear conditioning. The study focuses on dopamine β-hydroxylase (DbH) neurons, examining differences in activation under various conditions.
 
 ## Data Description
