@@ -1,4 +1,3 @@
-```markdown
 # Activation Patterns of A2 Noradrenergic Neurons in Fear-Conditioned Rats
 
 ## Project Overview
