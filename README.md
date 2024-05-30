@@ -3,6 +3,11 @@
 ## Project Overview
 This repository contains the R code and datasets for analyzing activation of A2 noradrenergic neurons in the nucleus of the solitary tract (NTS) of rats subjected to fear conditioning. The study focuses on dopamine β-hydroxylase (DbH) neurons, examining differences in activation under various conditions.
 
+## Highlights
+- **Cutting-edge Bioinformatics Analyses**: Leverages the latest in genomic databasing and sequence analysis to provide groundbreaking insights into genetic variation.
+- **Interactive Visualizations**: Includes R script that generates dynamic, interactive visualizations for a deeper understanding of the data.
+- **Community Driven**: Open for contributions, this project benefits from collaborations that extend its capabilities and applications.
+
 ## Data Description
 The data is derived from experimental observations on rat neuron activation under different environmental exposures, collected through specific methods. Key variables include:
 - `Total_DbH`: Percentage of DbH activation.
