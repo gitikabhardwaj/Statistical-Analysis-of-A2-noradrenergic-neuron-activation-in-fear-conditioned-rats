@@ -22,8 +22,8 @@ The data analysis was conducted by Gitika Bhardwaj and Tyla Dolezel at Rush Univ
 
 ## Project Structure
 - **/data/**: Contains instructions and links for accessing the datasets used in the analyses. Data collection was performed at Florida State University, with further details and findings available in the linked research article.
-- **/scripts/**: Contains R scripts developed for data processing, analysis, and visualization. The statistical analysis was carried out at Rush University.
-- **/results/**: Includes output files and visualizations generated from the R scripts.
+- **/scripts/**: Contains R script developed for data processing, analysis, and visualization. The statistical analysis was carried out at Rush University.
+- **/results/**: Includes output files and visualizations generated from the R script.
 
 ## Data Description
 The data is derived from experimental observations on rat neuron activation under different environmental exposures, collected through specific methods. Key variables include:
