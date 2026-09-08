@@ -125,7 +125,5 @@ We extend our gratitude to the research teams at Florida State University for th
 For more information, potential collaborations, or discussions about the implications of our findings, feel free to reach out:
 
 - **Email**: [gita.bhardwaj1@gmail.com](mailto:gita.bhardwaj1@gmail.com)
-- **LinkedIn**: [Insert LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
 
 ```
