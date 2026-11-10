@@ -19,6 +19,7 @@ The data analysis was conducted by Gitika Bhardwaj and Tyla Dolezel at Rush Univ
 ## Project Structure
 
 ```
+/images/    Generated figures
 /data/      Contains instructions and links for accessing the datasets used in the analyses.
             Data collection was performed at Florida State University, with further details
             and findings available in the linked research article.
@@ -74,13 +75,13 @@ A power analysis estimated the study's ability to detect an effect of the observ
 
 The following graph shows the percentage of neuron activation in the dark box re-exposure scenario, highlighting differences between male and female subjects.
 
-Dark Box Re-Exposure
+![Dark Box Re-Exposure](images/dark_box_re_exposure.png)
 
 #### By Sex
 
 These separate graphs for males and females show how the neuron activation response differed between the sexes under the same environmental stimulus.
 
-Descriptive Statistics Males | Descriptive Statistics Females
+![Descriptive Statistics Males](images/descriptive_stats_males.png) | ![Descriptive Statistics Females](images/descriptive_stats_females.png)
 
 ### Regression Analysis
 
@@ -89,7 +90,7 @@ The series of graphs produced from regression analysis show how neuron activatio
 - **Caudal region:** the strongest of the three regional predictors of overall neuron activation.
 - **Rostral and AP regions:** weaker predictors, but still contributing to the model.
 
-Regression Analysis Caudal | Regression Analysis Rostral | Regression Analysis AP
+![Regression Analysis Caudal](images/regression_caudal.png) | ![Regression Analysis Rostral](images/regression_rostal.png) | ![Regression Analysis AP](images/regression_ap.png)
 
 #### Model Notes
 
